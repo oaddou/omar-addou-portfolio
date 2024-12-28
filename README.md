@@ -17,7 +17,7 @@ The portfolio is built using:
 
 ## 🖼️ Preview
 
-You can visit the live version of the site here: [omaraddou.github.io](https://omaraddou.github.io)
+You can visit the live version of the site here: [omaraddou.github.io/omar-addou-portfolio/](https://omaraddou.github.io/omar-addou-portfolio/)
 
 ## 📄 Usage
 
@@ -28,7 +28,7 @@ The content of this repository is **strictly for personal use**. If you want to 
 To view or modify the source code locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omaraddou/portfolio.git
+   git clone https://github.com/oaddou/portfolio.git
    ```
 2. Open the `index.html` file in your browser to preview the site.
 
