@@ -42,6 +42,6 @@ This project is licensed under **All Rights Reserved**.
 
 I am Omar Addou, a supply chain professional with over a decade of experience in the pharmaceutical industry. My background in GMP, GDP, and SAP expertise allows me to deliver results in logistics and manufacturing. My passion for programming and technology drives my learning journey in **Python**, **HTML**, **CSS**, and **JavaScript**.
 
-Let's connect! Check out the [Contact](https://oaddou.github.io/#contact) section of the website or reach out to me on LinkedIn or X.
+Let's connect! Check out the [Contact](https://oaddou.github.io/omar-addou-portfolio/#contact) section of the website or reach out to me on LinkedIn or X.
 
 ---
